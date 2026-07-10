@@ -34,6 +34,7 @@ The contract features a self-contained, peer-to-peer trading floor with automate
 
 Deploy this contract using the following official Chainlink parameters:
 
+* **Smart Contract Address:** `0x303fc4A05E753D0cCFdAa9287eB9afc1C64fBa9e`
 * **VRF Coordinator Address:** `0x9DdfaCa8183c41ad55329BdeeD9F6A8d53168B1B`
 * **Gas Key Hash (30 gwei Lane):** `0x787d74caea10b2b357790d5b5247c2f63d1d91572a9846f780606e4d953677ae`
 
